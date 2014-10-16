@@ -1,0 +1,27 @@
+{
+  "name": "ASOS-Almond",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ArcherSys/ASOS--Almond",
+  "description": "ArcherSys Almond",
+  "main": "server.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "ArcherSys",
+    "ASOS",
+    "ArcherVMPeridot",
+    "Almond"
+  ],
+  "authors": [
+    "Weldon H and the ACOSF/ASOSF"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
